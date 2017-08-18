@@ -2,10 +2,10 @@
 layout: page
 ---
 
- * [Algorithms](Algorithms)
- * [Algebra](Algebra)
- * [Quaternion](Quaternion)
- * [Geometry](Geometry)
- * [NumberTheory](NumberTheory)
- * [GraphTheory](GraphTheory)
+ * [algorithms](algorithms)
+ * [algebra](algebra)
+ * [quaternion](quaternion)
+ * [geometry](geometry)
+ * [number theory](number_theory)
+ * [graph theory](graph_theory)
 
